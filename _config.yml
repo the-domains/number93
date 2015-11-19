@@ -1,0 +1,23 @@
+name: Number93
+favicon: null
+layout_spectrum: 0.8409540578722954
+typography_spectrum: 0.8806959688663483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1516967350617051
+  lightness: 0.19702336424961686
+  saturation: 0.8673559396993369
+  rhythmicContrast: 0.1406971551477909
+purpose: []
