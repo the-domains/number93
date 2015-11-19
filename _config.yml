@@ -1,7 +1,7 @@
 name: Number93
 favicon: null
 layout_spectrum: 0.34906
-typography_spectrum: 0.98513
+typography_spectrum: 0.96842
 title: My place on the internet
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#ff751a'
   brandStrength: 0.6875
   lightness: 0
-  saturation: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.25
 purpose: []
