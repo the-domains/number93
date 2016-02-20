@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My place on the internet]]></title>
+        <description><![CDATA[My place on the internet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 10:44:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Husband writes defiant tribute to his wife killed in Bataclan massacre]]></title>
+            <description><![CDATA[<article><h1>Husband writes defiant tribute to his wife killed in Bataclan massacre</h1><p>Antoine Leiris has told the attackers they "will not have my hatred".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d13c452a6f37009018f970da382118d646474f77.jpg"></article>]]></description>
+            <link>http://www.itv.com/news/2015-11-16/husband-writes-defiant-and-touching-tribute-to-his-wife-killed-in-bataclan-massacre/</link>
+            <guid isPermaLink="false">27dfeba0-8163-4b18-98da-d38d61ee5232</guid>
+            <pubDate>Sat, 20 Feb 2016 10:44:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
