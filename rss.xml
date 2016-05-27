@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[My place on the internet]]></title>
         <description><![CDATA[My place on the internet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/number93/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 14:03:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 14:15:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/number93/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Husband writes defiant tribute to his wife killed in Bataclan massacre]]></title>
+            <description><![CDATA[<article><h1>Husband writes defiant tribute to his wife killed in Bataclan massacre</h1><p>I will not give you the gift of hating you. You have obviously sought it but responding to hatred with anger would be to give in to the same ignorance that that has made you what you are. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d13c452a6f37009018f970da382118d646474f77.jpg"></article>]]></description>
+            <link>http://www.itv.com/news/2015-11-16/husband-writes-defiant-and-touching-tribute-to-his-wife-killed-in-bataclan-massacre/</link>
+            <guid isPermaLink="false">27dfeba0-8163-4b18-98da-d38d61ee5232</guid>
+            <pubDate>Fri, 27 May 2016 14:15:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We are here.]]></title>
             <description><![CDATA[<article><h1>We are here.</h1><p>Painting by jmelisio on Deviant art</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50e7d1b9-e74f-491c-9f0a-20edea8deb4b.jpg"></article>]]></description>
