@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Well, I sleep, watch tv and sometimes render 3D models like the one above'
-datePublished: '2016-05-27T15:32:08.494Z'
-dateModified: '2016-05-27T15:31:55.790Z'
+description: 'Well, I sleep, watch tv and sometimes render 3D models like this one.'
+datePublished: '2016-05-27T15:34:13.603Z'
+dateModified: '2016-05-27T15:34:07.186Z'
 title: Home for Christmas
 author:
   - name: Hawo0425
@@ -21,4 +21,4 @@ _type: Article
 ---
 ![Home for Christmas](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4015758a-6cd3-40bf-8f6a-7fcacac437a9.jpg)
 
-Well, I sleep, watch tv and sometimes render 3D models like the one above
+Well, I sleep, watch tv and sometimes render 3D models like this one.
