@@ -15,8 +15,8 @@ description: >-
   doesn’t forgive. All things that I would think make a good leader. It's one
   thing to fire someone from a boardroom table but another thing all together to
   order people be fired at.
-datePublished: '2016-08-22T11:17:48.378Z'
-dateModified: '2016-08-22T11:17:19.306Z'
+datePublished: '2016-08-22T11:22:25.600Z'
+dateModified: '2016-08-22T11:22:04.092Z'
 author:
   - name: Hawo0524
     url: ''
@@ -24,7 +24,11 @@ via: {}
 sourcePath: _posts/2016-08-13-the-2016-us-election.md
 title: The US Election 2016
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: the-us-election-2016/index.html
 _type: Article
