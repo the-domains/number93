@@ -15,8 +15,8 @@ description: >-
   doesn’t forgive. All things that I would think make a good leader. It's one
   thing to fire someone from a boardroom table but another thing all together to
   order people be fired at.
-datePublished: '2016-08-22T11:22:25.600Z'
-dateModified: '2016-08-22T11:22:04.092Z'
+datePublished: '2016-08-22T11:24:17.002Z'
+dateModified: '2016-08-22T11:24:16.412Z'
 author:
   - name: Hawo0524
     url: ''
