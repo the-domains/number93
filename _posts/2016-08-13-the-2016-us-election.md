@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T03:09:39.946Z'
+datePublished: '2016-08-26T03:12:35.239Z'
 sourcePath: _posts/2016-08-13-the-2016-us-election.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Hawo0524
     url: ''
 via: {}
-dateModified: '2016-08-26T03:09:39.317Z'
+dateModified: '2016-08-26T03:12:34.568Z'
 title: A whisper of a coup.
 publisher: {}
 description: >-
@@ -31,7 +31,7 @@ _type: Article
 
 ---
 # A whisper of a coup.
-![Donald, delighted to be making america great... again.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4665a219-8754-437d-9ee4-67bf3577dd2c.jpg)
+![Donald, delighted to be making America great... again.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4665a219-8754-437d-9ee4-67bf3577dd2c.jpg)
 
 The possibility of Donald Trump being President of the United States after the US election would mean that, for the first time in history (I think), the Commander-in-Chief of the US military would not have the respect of their senior military and intelligence staff. Which raises the question, could there be a military coup in North America? Well, as crazy as that sounds, if Mr Trump is a hands on President, it's not totally out of the question. Mr Trump isn't known for his calm temperament or empathy for others and he certainly doesn't forgive. All things that I would think make a good leader. It's one thing to fire someone from a boardroom table but another thing all together to order people be fired at.
 
